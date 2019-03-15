@@ -6,6 +6,5 @@
 </head>
 <body>
 	<h1>Hellow common</h1>
-	<h1>Hellow not   stash</h1>
 </body>
 </html>
