@@ -5,7 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	<h1>Hellow Git</h1>
-	<h1>Hellow index</h1>
+	<h1>Hello Index</h1>
 </body>
 </html>
