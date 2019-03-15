@@ -6,6 +6,5 @@
 </head>
 <body>
 	<h1>Hello Index</h1>
-	<h1>Hello stash</h1>
 </body>
 </html>
